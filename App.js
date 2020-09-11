@@ -15,6 +15,7 @@ const App: () => React$Node = () => {
   return (
     <View>
       <Text>anh hiếu đẹp zai</Text>
+      <Text>anh hiếu đẹp cực</Text>
     </View>
   );
 };
